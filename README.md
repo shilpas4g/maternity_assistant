@@ -68,7 +68,7 @@ adk deploy cloud_run
   --with_ui \
   . \
   --lables=cohort-1=hackthon-adk \
-  --set-env-vars="ADK_ALLOW_ORIGINS='regex:https://.*\cloudshell\.dev'"
+  --set-env-vars="ADK_ALLOW_ORIGINS='regex:https://.*\.cloudshell\.dev'"
 
 
   
