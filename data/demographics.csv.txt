@@ -1,0 +1,179 @@
+zip_code,city,neighborhood,nurse_name,pay_per_month,avaliability,age
+90001,Los Angeles,South Central Los Angeles,Grammy,4000,Stay-in,70
+90002,Los Angeles,Watts,Grammy,4000,Stay-in,70
+90003,Los Angeles,South Los Angeles,Grammy,4000,Stay-in,70
+90004,Los Angeles,Koreatown,Grammy,4000,Stay-in,70
+90007,Los Angeles,University Park,Teena,4500,Stay-in,59
+90008,Los Angeles,Baldwin Hills,Teena,4500,Stay-in,59
+90004,Los Angeles,Koreatown,Teena,4500,Stay-in,59
+90011,Los Angeles,South Los Angeles,Teena,4500,Stay-in,59
+90012,Los Angeles,Chinatown,Teena,4500,Stay-in,59
+90013,Los Angeles,Downtown Los Angeles,Teena,4500,Stay-in,59
+90015,Los Angeles,South Park,Teena,4500,Stay-in,59
+90016,Los Angeles,West Adams,Teena,4500,Stay-in,59
+90013,Los Angeles,Downtown,Teena,4500,Stay-in,59
+90018,Los Angeles,Jefferson Park,Teena,4500,Stay-in,59
+90019,Los Angeles,Mid Wilshire,Helena,4800,Stay-in,65
+90004,Los Angeles,Koreatown,Helena,4800,Stay-in,65
+90021,Los Angeles,Central City,Helena,4800,Stay-in,65
+90022,Los Angeles,East Los Angeles,Helena,4800,Stay-in,65
+90023,Los Angeles,Boyle Heights,Helena,4800,Stay-in,65
+90024,Los Angeles,Westwood,Helena,4800,Stay-in,65
+90025,Los Angeles,West Los Angeles,Helena,4800,Stay-in,65
+90026,Los Angeles,Echo Park,Helena,4800,Stay-in,65
+90027,Los Angeles,Los Feliz,Helena,4800,Stay-in,65
+90028,Los Angeles,Hollywood,Helena,4800,Stay-in,65
+90031,Los Angeles,Lincoln Heights,Helena,4800,Stay-in,65
+90032,Los Angeles,El Sereno,Helena,4800,Stay-in,65
+90033,Los Angeles,Boyle Heights,Helena,4800,Stay-in,65
+90034,Los Angeles,Palms,Tita,3500,Stay-in,50
+90035,Los Angeles,Pico-Robertson,Tita,3500,Stay-in,50
+90036,Los Angeles,Mid-Wilshire,Tita,3500,Stay-in,50
+90037,Los Angeles,South Los Angeles,Tita,3500,Stay-in,50
+90038,Los Angeles,Hollywood,Tita,3500,Stay-in,50
+90039,Los Angeles,Atwater Village,Tita,3500,Stay-in,50
+90040,Los Angeles,Commerce,Tita,3500,Stay-in,50
+90041,Los Angeles,Eagle Rock,Tita,3500,Stay-in,50
+90042,Los Angeles,Highland Park,Tita,3500,Stay-in,50
+90043,Los Angeles,Hyde Park,Tita,3500,Stay-in,50
+90044,Los Angeles,Vermont Knolls,Tita,3500,Stay-in,50
+90045,Los Angeles,Westchester,Tita,3500,Stay-in,50
+90046,Los Angeles,Hollywood Hills,Tita,3500,Stay-in,50
+90047,Los Angeles,Los Angeles,Emily,3500,Shift,50
+90048,Los Angeles,Mid-Wilshire,Emily,3500,Shift,50
+90049,Los Angeles,Brentwood,Emily,3500,Shift,50
+90013,Los Angeles,Downtown,Emily,3500,Shift,50
+90056,Los Angeles,Ladera Heights,Emily,3500,Shift,50
+90057,Los Angeles,Westlake,Emily,3500,Shift,50
+90058,Los Angeles,Vernon, CA,Emily,3500,Shift,50
+90002,Los Angeles,Watts,Emily,3500,Shift,50
+90061,Los Angeles,Green Meadows,Emily,3500,Shift,50
+90062,Los Angeles,Exposition Park,Emily,3500,Shift,50
+90063,Los Angeles,Boyle Heights,Emily,3500,Shift,50
+90064,Los Angeles,Cheviot Hills,Emily,3500,Shift,50
+90065,Los Angeles,Glassell Park,Emily,3500,Shift,50
+90094,Los Angeles,Playa Vista,Emily,3500,Shift,50
+90095,Los Angeles,Westwood,Emily,3500,Shift,50
+90201,Los Angeles,Bell Gardens,Emily,3500,Shift,50
+90210,Los Angeles,Beverly Hills,Emily,3500,Shift,50
+90220,Los Angeles,Compton,Emily,3500,Shift,50
+90266,Los Angeles,Manhattan Beach,Emily,3500,Stay-in,50
+90280,Los Angeles,South Gate,Emily,3500,Stay-in,50
+90290,Los Angeles,Topanga,Emily,3500,Stay-in,50
+90291,Los Angeles,Venice,Emily,3500,Stay-in,50
+90292,Los Angeles,Marina del Rey,Emily,3500,Stay-in,50
+90293,Los Angeles,Playa del Rey,Emily,3500,Stay-in,50
+90301,Los Angeles,Inglewood,Emily,3500,Stay-in,50
+90401,Los Angeles,Downtown Santa Monica,Sarah,2800,Shift,49
+90402,Los Angeles,Santa Monica,Sarah,2800,Shift,49
+90501,Los Angeles,Torrance,Sarah,2800,Shift,49
+90502,Los Angeles,Harbor Gateway,Sarah,2800,Shift,49
+90503,Los Angeles,Torrance,Sarah,2800,Shift,49
+90621,Los Angeles,Buena Park,Sarah,2800,Shift,49
+90623,Los Angeles,La Palma,Sarah,2800,Shift,49
+90630,Los Angeles,Cypress,Sarah,2800,Shift,49
+90631,Los Angeles,La Habra,Sarah,2800,Shift,49
+90638,Los Angeles,La Mirada,Sarah,2800,Shift,49
+90640,Los Angeles,Montebello,Sarah,2800,Shift,49
+90650,Los Angeles,Norwalk,Sarah,2800,Shift,49
+90660,Los Angeles,Pico Rivera,Sarah,2800,Shift,49
+90670,Los Angeles,Santa Fe Springs,Sarah,2800,Shift,49
+90701,Los Angeles,Artesia,Sarah,2800,Shift,49
+90703,Los Angeles,Cerritos,Sarah,2800,Shift,49
+90704,Los Angeles,Avalon,Sarah,2800,Shift,49
+90706,Los Angeles,Bellflower,Sarah,2800,Shift,49
+90710,Los Angeles,Harbor City,Sarah,2800,Shift,49
+90712,Los Angeles,Lakewood,Sarah,2800,Shift,49
+90716,Los Angeles,Hawaiian Gardens,Sarah,2800,Shift,49
+90717,Los Angeles,Lomita,Sarah,2800,Shift,49
+90723,Los Angeles,Paramount,Sarah,2800,Shift,49
+90731,Los Angeles,San Pedro,Sarah,2800,Shift,49
+90744,Los Angeles,Wilmington,Sarah,2800,Shift,49
+90745,Los Angeles,Carson,Sarah,2800,Shift,49
+90755,Los Angeles,Signal Hill,Sarah,2800,Shift,49
+90802,Los Angeles,Long Beach,Sarah,2800,Shift,49
+90803,Los Angeles,Belmont Shore,Sarah,2800,Shift,49
+90804,Los Angeles,Long Beach,Sarah,2800,Shift,49
+90805,Los Angeles,North Long Beach,Sarah,2800,Shift,49
+90806,Los Angeles,Long Beach,Sarah,2800,Shift,49
+91001,Los Angeles,Altadena,Sarah,2800,Shift,49
+91006,Los Angeles,Arcadia,Sarah,2800,Shift,49
+91008,Los Angeles,Bradbury,Sarah,2800,Shift,49
+91010,Los Angeles,Duarte, CA,Sarah,2800,Shift,49
+91011,Los Angeles,La Cañada Flintridge,Sarah,2800,Shift,49
+91016,Los Angeles,Monrovia,Sarah,2800,Shift,49
+91020,Los Angeles,Montrose,Sarah,2800,Shift,49
+91024,Los Angeles,Sierra Madre,Sarah,2800,Shift,49
+91030,Los Angeles,South Pasadena,Sarah,2800,Shift,49
+91040,Los Angeles,Shadow Hills,Sarah,2800,Shift,49
+91042,Los Angeles,Tujunga,Sarah,2800,Shift,49
+91046,Los Angeles,Verdugo City,Sarah,2800,Shift,49
+91101,Los Angeles,Pasadena,Sarah,2800,Shift,49
+91103,Los Angeles,North Central,Sarah,2800,Shift,49
+91104,Los Angeles,Pasadena,Sarah,2800,Shift,49
+91105,Los Angeles,Pasadena,Sarah,2800,Shift,49
+91108,Los Angeles,San Marino,Sarah,2800,Shift,49
+91214,Los Angeles,La Crescenta,Sarah,2800,Shift,49
+91301,Los Angeles,Agoura Hills,Sarah,2800,Shift,49
+91302,Los Angeles,Calabasas,Sarah,2800,Shift,49
+91303,Los Angeles,Canoga Park,Sarah,2800,Shift,49
+91304,Los Angeles,Canoga Park,Sarah,2800,Shift,49
+91306,Los Angeles,Winnetka,Sarah,2800,Shift,49
+91307,Los Angeles,West Hills,Sarah,2800,Shift,49
+91311,Los Angeles,Chatsworth,Sarah,2800,Shift,49
+91316,Los Angeles,Encino,Sarah,2800,Shift,49
+91321,Los Angeles,Newhall,Sarah,2800,Shift,49
+91324,Los Angeles,Northridge,Sarah,2800,Shift,49
+91326,Los Angeles,Porter Ranch,Sarah,2800,Shift,49
+91331,Los Angeles,Pacoima,Sarah,2800,Shift,49
+91335,Los Angeles,Reseda,Sarah,2800,Shift,49
+91340,Los Angeles,San Fernando,Sarah,2800,Shift,49
+91342,Los Angeles,Sylmar,Sarah,2800,Shift,49
+91343,Los Angeles,North Hills,Sarah,2800,Shift,49
+91344,Los Angeles,Granada Hills,Sarah,2800,Shift,49
+91345,Los Angeles,Mission Hills,Sarah,2800,Shift,49
+91350,Los Angeles,Saugus, Santa Clarita,Sarah,2800,Shift,49
+91351,Los Angeles,Canyon Country, Santa Clarita,Sarah,2800,Shift,49
+91352,Los Angeles,Sun Valley,Sarah,2800,Shift,49
+91354,Los Angeles,Valencia,Sarah,2800,Shift,49
+91355,Los Angeles,Valencia,Sarah,2800,Shift,49
+91356,Los Angeles,Tarzana,Sarah,2800,Shift,49
+91361,Los Angeles,Westlake Village,Sarah,2800,Shift,49
+91362,Los Angeles,Thousand Oaks,Sarah,2800,Shift,49
+91364,Los Angeles,Woodland Hills,Sarah,2800,Shift,49
+91384,Los Angeles,Castaic,Sarah,2800,Shift,49
+91387,Los Angeles,Canyon Country,Sarah,2800,Shift,49
+91390,Los Angeles,Santa Clarita,Sarah,2800,Shift,49
+91401,Los Angeles,Van Nuys,Sarah,2800,Shift,49
+91402,Los Angeles,Panorama City,Sarah,2800,Shift,49
+91403,Los Angeles,Sherman Oaks,Sarah,2800,Shift,49
+91405,Los Angeles,Van Nuys,Sarah,2800,Shift,49
+91423,Los Angeles,Sherman Oaks,Sarah,2800,Shift,49
+91436,Los Angeles,Encino,Sarah,2800,Shift,49
+91501,Los Angeles,Burbank,Sarah,2800,Shift,49
+91601,Los Angeles,North Hollywood,Sarah,2800,Shift,49
+91604,Los Angeles,Studio City,Sarah,2800,Shift,49
+91605,Los Angeles,North Hollywood,Sarah,2800,Shift,49
+91702,Los Angeles,Azusa,Sarah,2800,Shift,49
+91706,Los Angeles,Baldwin Park,Sarah,2800,Shift,49
+91709,Los Angeles,Chino Hills,Sarah,2800,Shift,49
+91711,Los Angeles,Claremont,Sarah,2800,Shift,49
+91722,Los Angeles,Covina,Sarah,2800,Shift,49
+91731,Los Angeles,El Monte,Sarah,2800,Shift,49
+91733,Los Angeles,South El Monte,Sarah,2800,Shift,49
+91740,Los Angeles,Glendora,Sarah,2800,Shift,49
+91744,Los Angeles,La Puente,Sarah,2800,Shift,49
+91745,Los Angeles,Hacienda Heights,Sarah,2800,Shift,49
+91746,Los Angeles,La Puente,Sarah,2800,Shift,49
+91748,Los Angeles,Rowland Heights,Sarah,2800,Shift,49
+91750,Los Angeles,La Verne,Sarah,2800,Shift,49
+91754,Los Angeles,Monterey Park,Sarah,2800,Shift,49
+91759,Los Angeles,Mt Baldy,Sarah,2800,Shift,49
+91765,Los Angeles,Diamond Bar,Sarah,2800,Shift,49
+91766,Los Angeles,Pomona,Sarah,2800,Shift,49
+91770,Los Angeles,Rosemead,Sarah,2800,Shift,49
+91773,Los Angeles,San Dimas,Sarah,2800,Shift,49
+91775,Los Angeles,San Gabriel,Sarah,2800,Shift,49
+93536,Los Angeles,Lancaster,Jessica,2500,Shift,52
+93544,Los Angeles,Llano,Jessica,2500,Shift,52
+93550,Los Angeles,Palmdale,Jessica,2500,Shift,52
