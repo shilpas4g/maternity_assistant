@@ -40,11 +40,11 @@ Creating service account.
 gcloud iam service-accounts create ${SA_NAME} \
   --display-name="Service Account for cloud run "
 
-gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT \
-  --member="servceAccount:$SERVICE_ACCOUNT" \
+gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT \\
+  --member="servceAccount:$SERVICE_ACCOUNT" \\
   --role:"roles/aiplatform.user"
   
-gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT \
+gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT \\
   --member="servceAccount:$SERVICE_ACCOUNT" \
   --role:"roles/mcp.toolUser"
 
