@@ -62,14 +62,14 @@ gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT \
 
 Run the deployment
 
-adk deploy cloud_run
-  --project=$GOOGLE_CLOUD_PROJECT \\
-  --region=us-central1 \\
-  --service_name=maternity_asssitant \\
-  --with_ui \\
-  . \\
-  -- \\
-  --lables=cohort-1=hackthon-adk \\
+adk deploy cloud_run  
+  --project=$GOOGLE_CLOUD_PROJECT \\  
+  --region=us-central1 \\  
+  --service_name=maternity_asssitant \\  
+  --with_ui \\  
+  . \\  
+  -- \\ 
+  --lables=cohort-1=hackthon-adk \\  
   --set-env-vars="ADK_ALLOW_ORIGINS='regex:https://.*\.cloudshell\.dev'"
 
 
