@@ -67,6 +67,7 @@ adk deploy cloud_run
   --service_name=maternity_asssitant \
   --with_ui \
   . \
+  -- \
   --lables=cohort-1=hackthon-adk \
   --set-env-vars="ADK_ALLOW_ORIGINS='regex:https://.*\.cloudshell\.dev'"
 
